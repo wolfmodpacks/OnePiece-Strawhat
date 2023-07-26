@@ -1,0 +1,128 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.2.34",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "author": "Roan",
+  "name": "One-Piece-Strawhat-Era",
+  "files": [
+    {
+      "projectID": 32274,
+      "fileID": 4012858,
+      "required": true,
+      "__meta": {
+        "name": "JourneyMap"
+      }
+    },
+    {
+      "projectID": 78726,
+      "fileID": 4617935,
+      "required": true,
+      "__meta": {
+        "name": "Mine Mine no Mi"
+      }
+    },
+    {
+      "projectID": 221826,
+      "fileID": 3791072,
+      "required": true,
+      "__meta": {
+        "name": "Custom NPCs"
+      }
+    },
+    {
+      "projectID": 238086,
+      "fileID": 3647098,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS",
+        "dependencies": [
+          416294,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 245755,
+      "fileID": 3515707,
+      "required": true,
+      "__meta": {
+        "name": "Waystones"
+      }
+    },
+    {
+      "projectID": 310111,
+      "fileID": 3666923,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Items Fabric/Forge (REI)",
+        "dependencies": [
+          521393,
+          419699,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 348521,
+      "fileID": 4633366,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 416294,
+      "fileID": 3525704,
+      "required": true,
+      "__meta": {
+        "name": "Rhino",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 4521290,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 422301,
+      "fileID": 4167327,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Backpacks"
+      }
+    },
+    {
+      "projectID": 521393,
+      "fileID": 3666925,
+      "required": true,
+      "__meta": {
+        "name": "REI Plugin Compatibilities (REIPC)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 582327,
+      "fileID": 4453876,
+      "required": true,
+      "__meta": {
+        "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]"
+      }
+    }
+  ]
+}
