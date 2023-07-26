@@ -73,6 +73,17 @@
       }
     },
     {
+      "projectID": 318012,
+      "fileID": 4439555,
+      "required": true,
+      "__meta": {
+        "name": "DefaultSettings",
+        "dependencies": [
+          659192
+        ]
+      }
+    },
+    {
       "projectID": 348521,
       "fileID": 4633366,
       "required": true,
@@ -122,6 +133,15 @@
       "required": true,
       "__meta": {
         "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 659192,
+      "fileID": 4431129,
+      "required": true,
+      "__meta": {
+        "name": "JCPlugin",
+        "explicit": false
       }
     }
   ]
