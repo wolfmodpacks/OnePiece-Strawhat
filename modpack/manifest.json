@@ -24,6 +24,14 @@
       }
     },
     {
+      "projectID": 60089,
+      "fileID": 3202662,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
       "projectID": 78726,
       "fileID": 4617935,
       "required": true,
@@ -37,6 +45,14 @@
       "required": true,
       "__meta": {
         "name": "Custom NPCs"
+      }
+    },
+    {
+      "projectID": 225608,
+      "fileID": 3172951,
+      "required": true,
+      "__meta": {
+        "name": "WorldEdit"
       }
     },
     {
@@ -57,6 +73,30 @@
       "required": true,
       "__meta": {
         "name": "Waystones"
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3658432,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 258371,
+      "fileID": 4174267,
+      "required": true,
+      "__meta": {
+        "name": "Valkyrien Skies (Forge/Fabric)"
+      }
+    },
+    {
+      "projectID": 264353,
+      "fileID": 3103028,
+      "required": true,
+      "__meta": {
+        "name": "SwingThroughGrass"
       }
     },
     {
@@ -84,12 +124,36 @@
       }
     },
     {
+      "projectID": 324717,
+      "fileID": 3910873,
+      "required": true,
+      "__meta": {
+        "name": "Jade 🔍"
+      }
+    },
+    {
       "projectID": 348521,
       "fileID": 4633366,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 361579,
+      "fileID": 3767277,
+      "required": true,
+      "__meta": {
+        "name": "spark"
+      }
+    },
+    {
+      "projectID": 397080,
+      "fileID": 3788840,
+      "required": true,
+      "__meta": {
+        "name": "Islands"
       }
     },
     {
@@ -133,6 +197,14 @@
       "required": true,
       "__meta": {
         "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 654384,
+      "fileID": 4275649,
+      "required": true,
+      "__meta": {
+        "name": "Eureka! Ships! for Valkyrien Skies (Forge/Fabric)"
       }
     },
     {
