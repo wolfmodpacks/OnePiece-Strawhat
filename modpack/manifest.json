@@ -24,6 +24,14 @@
       }
     },
     {
+      "projectID": 55438,
+      "fileID": 3346467,
+      "required": true,
+      "__meta": {
+        "name": "MrCrayfish's Furniture Mod"
+      }
+    },
+    {
       "projectID": 60089,
       "fileID": 3202662,
       "required": true,
@@ -124,12 +132,31 @@
       }
     },
     {
+      "projectID": 328085,
+      "fileID": 3536025,
+      "required": true,
+      "__meta": {
+        "name": "Create",
+        "dependencies": [
+          486392
+        ]
+      }
+    },
+    {
       "projectID": 348521,
       "fileID": 4633366,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 351264,
+      "fileID": 3675495,
+      "required": true,
+      "__meta": {
+        "name": "Kotlin for Forge"
       }
     },
     {
@@ -172,6 +199,15 @@
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks"
+      }
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3535459,
+      "required": true,
+      "__meta": {
+        "name": "Flywheel",
+        "explicit": false
       }
     },
     {
