@@ -64,6 +64,22 @@
       }
     },
     {
+      "projectID": 233019,
+      "fileID": 3798940,
+      "required": true,
+      "__meta": {
+        "name": "AI Improvements"
+      }
+    },
+    {
+      "projectID": 235670,
+      "fileID": 3808188,
+      "required": true,
+      "__meta": {
+        "name": "RPG-Hud [Forge]"
+      }
+    },
+    {
       "projectID": 238086,
       "fileID": 3647098,
       "required": true,
@@ -76,11 +92,27 @@
       }
     },
     {
+      "projectID": 241160,
+      "fileID": 3098229,
+      "required": true,
+      "__meta": {
+        "name": "NetherPortalFix"
+      }
+    },
+    {
       "projectID": 245755,
       "fileID": 3515707,
       "required": true,
       "__meta": {
         "name": "Waystones"
+      }
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3686480,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin"
       }
     },
     {
@@ -160,11 +192,27 @@
       }
     },
     {
+      "projectID": 354143,
+      "fileID": 4562378,
+      "required": true,
+      "__meta": {
+        "name": "Performant"
+      }
+    },
+    {
       "projectID": 361579,
       "fileID": 3767277,
       "required": true,
       "__meta": {
         "name": "spark"
+      }
+    },
+    {
+      "projectID": 380401,
+      "fileID": 3191632,
+      "required": true,
+      "__meta": {
+        "name": "WorldEditCUI Forge Edition 3"
       }
     },
     {
@@ -199,6 +247,30 @@
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks"
+      }
+    },
+    {
+      "projectID": 435044,
+      "fileID": 4177083,
+      "required": true,
+      "__meta": {
+        "name": "Better Third Person"
+      }
+    },
+    {
+      "projectID": 446253,
+      "fileID": 3421281,
+      "required": true,
+      "__meta": {
+        "name": "Better Biome Blend"
+      }
+    },
+    {
+      "projectID": 450659,
+      "fileID": 3915977,
+      "required": true,
+      "__meta": {
+        "name": "Small Ships [Fabric & Forge]"
       }
     },
     {
